@@ -1,4 +1,4 @@
-package org.example.movieshub.movie;
+package org.example.movieshub.movie.service;
 
 public class DatabaseMovieService {
 }

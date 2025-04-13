@@ -1,4 +1,8 @@
-package org.example.movieshub.movie;
+package org.example.movieshub.movie.service;
 
 public interface MovieService {
 }
+
+
+
+// show all movies by rating
